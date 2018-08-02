@@ -33,7 +33,7 @@
 
  /**
   * 
-  to update object beacus eits mutuable
+  to update object beacuse its mutuable
   */
 
   Object.assign(payload, {'hello':'world'});
